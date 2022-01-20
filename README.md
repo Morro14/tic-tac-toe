@@ -1,4 +1,2 @@
 # tic-tac-toe
-Python B5.6 Итоговое задание
-Игра крестики-нолики 3 на 3 (по умолчанию).
-В коде есть возможность задавать поле любого размера.
+Tic-tac-toe for 2 players on a game field of any size (from  2 to 20).
